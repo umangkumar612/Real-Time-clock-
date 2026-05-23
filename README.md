@@ -1,16 +1,74 @@
-# React + Vite
+# ⏰ React Digital Clock
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and stylish Digital Clock built using React.js.  
+The application displays the current time in real-time and allows users to dynamically change the clock color.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+Live Link: https://fancy-kitten-5ffc57.netlify.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📂 GitHub Repository
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Repo Link: https://github.com/umangkumar612/Real-Time-clock-.git
+
+---
+
+## ✨ Features
+
+- Real-time digital clock
+- Dynamic color selection
+- Responsive UI
+- Modern gradient styling
+- Built with React Hooks
+
+---
+
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript
+- CSS (Inline Styling)
+- Vite
+
+---
+
+## 📂 Project Structure
+
+```bash
+src/
+│
+├── App.js
+├── Clock.js
+└── main.jsx
+⚙️ Installation & Setup
+1️⃣ Clone the repository
+git clone https://github.com/umangkumar612/Real-Time-clock-.git
+2️⃣ Navigate to project folder
+cd Real-Time-clock-
+3️⃣ Install dependencies
+npm install
+4️⃣ Start development server
+npm run dev
+🎨 Available Clock Colors
+Red
+Yellow
+Green
+Blue
+📚 Concepts Used
+React Functional Components
+useState Hook
+useEffect Hook
+Props
+Event Handling
+Dynamic Styling
+👨‍💻 Author
+
+Umang Kumar
+
+Portfolio: https://silly-mousse-15f111.netlify.app/
+
+GitHub: https://github.com/umangkumar612
